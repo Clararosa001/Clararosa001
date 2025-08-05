@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="180" alt="Gatinho filmando com uma câmera" />
+</p>
+
 <h1 align="center">✨ Oiê! Eu sou a Clara Rosa ✨</h1>
 
 <p align="center">
-  🎓 Estudante de Marketing Digital & Ciência de Dados <br>
+  🎓 Estudante de Marketing Digital & Ciência de Dados (3º período) <br>
   🎬 Filmmaker nas horas vagas (ou o tempo todo?) <br>
   📸 Apaixonada por capturar momentos que aquecem o coração <br>
   🌱 Minimalista em construção & louca por detalhes <br>
@@ -10,25 +14,27 @@
 
 ---
 
-## 💫 Um pouquinho sobre mim:
+## 💫 Um pouquinho sobre mim
 
-Sou a Clara (mas pode me chamar de Rosa 🌹 também).  
-Estou no 3º período da faculdade, navegando entre o universo **dos dados** e a **criatividade do marketing** — um combo perfeito pra quem ama organizar ideias com beleza.
+Atualmente, estou explorando o universo onde **dados e criatividade** se encontram.  
+Amo contar histórias — seja com uma câmera na mão, escrevendo ou observando o mundo em silêncio.
 
-Amo contar histórias — seja com uma câmera na mão, escrevendo, ou apenas observando o mundo.  
-Se tiver um pôr do sol bonito + uma boa música tocando, pode ter certeza que estou ali registrando 💕📷
-
----
-
-## 🎒 O que tô aprendendo agora:
-
-- 📊 Como usar dados pra tomar decisões que façam sentido e toquem pessoas
-- 🧠 Técnicas de marketing que envolvem emoção, propósito e um tiquinho de estratégia
-- 🎥 Novos jeitos de editar vídeos que causem aquele *uauzinho* ✨
+Adoro criar coisas que combinam:
+- 💡 Estratégia + emoção
+- 🎥 Visual bonito + significado
+- 🎶 Uma boa playlist + um mood inspirador
 
 ---
 
-## 🌸 Me encontra por aí:
+## 📚 O que tô aprendendo agora
+
+- Como usar dados pra tomar decisões mais humanas e certeiras 📊  
+- Técnicas de marketing digital que encantam (sem enrolação) 💻  
+- Novos jeitos de editar vídeos que causem aquele *uauzinho* ✨
+
+---
+
+## 🌷 Me encontra por aí
 
 [![Instagram](https://img.shields.io/badge/@clararosa__-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seulink)  
 [![LinkedIn](https://img.shields.io/badge/Clara%20Rosa-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulink)  
@@ -36,12 +42,16 @@ Se tiver um pôr do sol bonito + uma boa música tocando, pode ter certeza que e
 
 ---
 
-### 🌷 Uma frase que me define:
+### 💖 Uma frase que me define:
 
-> “Capturar momentos é meu jeito favorito de dizer: isso aqui importa.” 💖
+> “Capturar momentos é meu jeito favorito de dizer: isso aqui importa.”
 
 ---
 
 <p align="center">
   Feito com 💕 e café por <strong>Clara Rosa</strong>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="60" alt="Coração pulando">
 </p>
